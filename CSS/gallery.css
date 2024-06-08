@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.desktop-gallery {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.mobile-gallery {
+    display: none;
+}
+
+@media only screen and (max-width: 480px) {
+    .desktop-gallery {
+        display: none;
+    }
+
+    .mobile-gallery {
+        display: flex;
+        width: 100%;
+        height: 100vh;
+    }
+
+}
