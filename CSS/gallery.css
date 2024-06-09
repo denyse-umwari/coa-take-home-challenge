@@ -26,4 +26,14 @@
         height: 100vh;
     }
 
+
+    /* .mobile-gallery img {
+        transition: filter 0.3s ease, opacity 0.3s ease;
+    } */
+
+    /* .mobile-gallery img:hover {
+        filter: grayscale(100%);
+        opacity: 0.3;
+    } */
+
 }
