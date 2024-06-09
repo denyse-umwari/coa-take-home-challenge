@@ -123,4 +123,4 @@ Given a string, transform it based on the following rules:
 
    node stringTransform.js
 
-And that's it! Please remember to start the repo if it was helpful!! Hope it goes well!!
+And that's it! Please remember to star ⭐⭐⭐⭐⭐ the repo if it was helpful!! Hope it goes well!!
