@@ -105,7 +105,7 @@ Given a string, transform it based on the following rules:
 
 ## Usage
 
-### Runnig the UI Challenge
+### Running the UI Challenge
 
 3. Open HTML files in your preferred web browser,(Eg: Chrome, Edge, Firefox)
 
@@ -113,14 +113,14 @@ Given a string, transform it based on the following rules:
 
 1. Navigate to the coding challenges directory:
 
-cd CHALLENGES
+   cd CHALLENGES
 
 2. Run the array manipulation challenge:
 
-node arrayMap.js
+   node arrayMap.js
 
 3. Run the string transformation challenge:
 
-node stringTransform.js
+   node stringTransform.js
 
 And that's it! Please remember to start the repo if it was helpful!! Hope it goes well!!
